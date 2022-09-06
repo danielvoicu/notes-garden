@@ -2,6 +2,9 @@
 layout: default
 ---
 <article>
+    {% if image.length > 0%}
+        <img src="{{image}}" alt="{{imageAlt}}" class="article-header-image">
+    {% endif %}
     {{content}}
 </article>
 {% include 'backlinks.html' %}

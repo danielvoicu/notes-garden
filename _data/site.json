@@ -1,6 +1,6 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "Notes on Things",
+    "desc": "Welcome to my digital garden. These are random notes that I will be taking from time to time.",
+    "author": "Daniel Voicu",
+    "baseurl": "https://notes.danielvoicu.dev"
 }

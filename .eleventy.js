@@ -1,4 +1,7 @@
 module.exports = function(eleventyConfig) {
+
+    const pluginRss = require("@11ty/eleventy-plugin-rss");
+    eleventyConfig.addPlugin(pluginRss);
     
     const markdownIt = require('markdown-it');
     const markdownItOptions = {

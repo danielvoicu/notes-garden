@@ -149,3 +149,9 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+/* Custom CSS */
+
+.article-header-image {
+    max-width: 600px;
+}
