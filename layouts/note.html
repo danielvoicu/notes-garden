@@ -5,6 +5,12 @@ layout: default
     {% if image.length > 0%}
         <img src="{{image}}" alt="{{imageAlt}}" class="article-header-image">
     {% endif %}
+    <h2>{{title}}</h2>
+    {% if date %}
+    <div>
+        <span>Last Modified:</span> <time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time>
+    </div>
+    {% endif %}
     {{content}}
 </article>
 {% include 'backlinks.html' %}
