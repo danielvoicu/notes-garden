@@ -4,8 +4,6 @@ image: /assets/undraw_annotation_7das.png
 imageAlt: This is the image alt
 ---
 
-<!-- ![The Index](/assets/undraw_annotation_7das.png){width=600} -->
-
 ### Welcome!
 
 Hi, I'm Daniel. Thanks for dropping by my digital garden. This place is a space where I will post random notes about the things I find worth mentioning. These things might be books (and notes on them), movies (and notes on them), articles (and notes on them). See? A lot of things with notes on them.
@@ -14,7 +12,7 @@ Hi, I'm Daniel. Thanks for dropping by my digital garden. This place is a space 
 
 At this point, I only have a few notes. You can check them out either by using the graph below the article or follow the links from this post.
 
-
+* [[note-taking-apps-second-brains-and-writing|Note taking apps, second brains and writing]]
 * [[about-reading|About Reading]] - About reading and the barbell method.
 * [[how-i-remember-the-90s|How I remember the 90s]] - Something about growing up in the 90s, in Romania.
 * [[why-a-digital-garden|Why a digital garden]] - Why I started a digital garden.

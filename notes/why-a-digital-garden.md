@@ -1,17 +1,14 @@
 ---
 title: Why a Digital Garden
 image: /assets/undraw_blooming_jtv6.png
+date: 2022-10-23
 ---
-
-### Welcome!
-
-Hi, I'm Daniel. Thanks for dropping by my digital garden. This place is a space where I will post random notes about the things I find worth mentioning. These things might be books (and notes on them), movies (and notes on them), articles (and notes on them). See? A lot of things with notes on them.
 
 ### A digital garden?
 
 *"Why a digital garden"*, you might ask. I asked myself the same question. And I don't know if I have a clear answer, but I know that I want to write more and write freely. In case someone ends up on my site and finds something useful, it will make me very happy to know that.
 
-I noticed that I tend to spend a lot of time moving from one thing to another and writing them down helped me memorize things. My attention span has slowly but steadily devolved over the years. So I needed to find a way to focus more on the input-output process of my mind, if there is such a thing. I needed something that allowed me to write freely and see if the things I read or watch or consume in one way or another are of any use to me. I also consider myself a permanent learner, and I want to share with others the things I'm learning about. Speaking of which, I found out about a method of reading on the Zettelkastten.de site. I've added a small note about it here: [[About reading]]
+I noticed that I tend to spend a lot of time moving from one thing to another and writing them down helped me memorize things. My attention span has slowly but steadily devolved over the years. So I needed to find a way to focus more on the input-output process of my mind, if there is such a thing. I needed something that allowed me to write freely and see if the things I read or watch or consume in one way or another are of any use to me. I also consider myself a permanent learner, and I want to share with others the things I'm learning about. Speaking of which, I found out about a method of reading on the Zettelkastten.de site. I've added a small note about it here: [[about-reading|About Reading]]
 
 I've been taking notes with [Obsidian.md](https://obsidian.md/) and I've been trying a few other solutions to create some sort of a personal knowledge system. I've stuck with Obsidian as I think it's an amazing tool, with a great and welcoming community to support it. 
 

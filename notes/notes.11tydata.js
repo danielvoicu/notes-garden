@@ -41,6 +41,7 @@ module.exports = {
                     backlinks.push({
                         url: otherNote.url,
                         title: otherNote.data.title,
+                        image: otherNote.data.image,
                         preview
                     })
                 }
