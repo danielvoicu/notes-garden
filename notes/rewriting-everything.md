@@ -13,3 +13,5 @@ With limited access to internet - mostly because of the slow connection I had wh
 I'm rediscovering listening to music in "full albums", not just singles. Found 3 albums from totally different types of artists and I am enjoying them. My favorite is "Cover songs in inferno", by Francoiz Breut and Don Nino. I've also listened to IX, the first album from HOST (a band with members from Paradise Lost).
 
 I haven't read that much during the vacation, but before that I've managed to finish a few books on Kindle, including the first two books from the "Discworld" series by Terry Pratchett.
+
+Now I'm trying to figure out ways to configure my site to work with eleventy. So I'm basically rewriting some stuff around, and adding some automations. It's interesting to see how this thing grows and updates; hope it doesn't turn into a mess.
