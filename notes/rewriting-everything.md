@@ -15,3 +15,4 @@ I'm rediscovering listening to music in "full albums", not just singles. Found 3
 I haven't read that much during the vacation, but before that I've managed to finish a few books on Kindle, including the first two books from the "Discworld" series by Terry Pratchett.
 
 Now I'm trying to figure out ways to configure my site to work with eleventy. So I'm basically rewriting some stuff around, and adding some automations. It's interesting to see how this thing grows and updates; hope it doesn't turn into a mess.
+
