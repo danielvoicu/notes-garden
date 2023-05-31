@@ -16,4 +16,4 @@ I haven't read that much during the vacation, but before that I've managed to fi
 
 Now I'm trying to figure out ways to configure my site to work with eleventy. So I'm basically rewriting some stuff around, and adding some automations. It's interesting to see how this thing grows and updates; hope it doesn't turn into a mess.
 
-Is this working? test
+Is this working? test 2
