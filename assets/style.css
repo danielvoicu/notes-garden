@@ -1,5 +1,7 @@
 :root {
     --accent: #2D9CDB;
+    --accent-light: #56CCF2;
+    --accent-green: #6FCF97;
     --grey: #444;
 }
 
@@ -207,4 +209,15 @@ small {
 
 .backlink__preview__image {
     max-width: 100%;
+}
+
+/* theme specific */
+
+/* note types */
+
+.note-type {
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--accent-green);
 }

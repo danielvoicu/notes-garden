@@ -2,7 +2,7 @@
 title: Why a Digital Garden
 image: /assets/undraw_blooming_jtv6.png
 date: 2022-10-23
-type: seed
+type: Growing
 ---
 
 ### A digital garden?

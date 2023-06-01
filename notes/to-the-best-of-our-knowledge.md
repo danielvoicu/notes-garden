@@ -1,7 +1,7 @@
 ---
 title: To The Best of Our Knowledge Podcast
 date: 2022-05-02
-type: seed
+type: Budding
 ---
 
 I think in May or June I found out about a great podcast called **[To the Best of Our Knowledge](https://www.ttbook.org/)**. I've been listening to it since then, and I remember that the first episode that I listened to is called "*Solace of Nature*". In that episode they talked about the way nature influences our life, how it can offer us contemplative experiences.
