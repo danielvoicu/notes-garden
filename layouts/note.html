@@ -11,6 +11,11 @@ layout: default
         <span>Last Modified:</span> <time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time>
     </div>
     {% endif %}
+    {% if type.length > 0 %}
+    <div>
+        <span>Type:</span> {{type}}
+    </div>
+    {% endif %}
     {{content}}
 </article>
 {% include 'backlinks.html' %}
