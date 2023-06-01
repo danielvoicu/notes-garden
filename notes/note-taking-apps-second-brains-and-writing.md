@@ -1,7 +1,7 @@
 ---
 title: Note taking apps, second brains and writing
 date: 2022-10-23
-type: seed
+type: Budding
 ---
 
 ### Which is the best note taking app?
