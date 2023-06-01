@@ -2,7 +2,7 @@
 title: The Index
 image: /assets/undraw_annotation_7das.png
 imageAlt: This is the image alt
-type: seed
+type: Seed
 ---
 
 ### Welcome!

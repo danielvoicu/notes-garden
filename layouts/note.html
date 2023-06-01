@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
     {% if image.length > 0%}
-        <img src="{{image}}" alt="{{imageAlt}}" class="article-header-image">
+    <img src="{{image}}" alt="{{imageAlt}}" class="article-header-image">
     {% endif %}
     <h2>{{title}}</h2>
     {% if date %}
@@ -12,8 +12,19 @@ layout: default
     </div>
     {% endif %}
     {% if type.length > 0 %}
-    <div>
-        <span>Type:</span> {{type}}
+    <div class="note-type">
+        <span>Type:</span>
+        {% if type == 'Seed' %}
+        <span class="seed"> {{type}} 🌱</span>
+        {% elsif type == 'Budding' %}
+        <span class="Budding"> {{type}} 🌿</span>
+        {% elsif type == 'Growing' %}
+        <span class="growing"> {{type}} 🌳</span>
+        {% elsif type == 'Flourishing' %}
+        <span class="flourishing"> {{type}} 🌸</span>
+        {% elsif type == 'Needs Pruning' %}
+        <span class="needs-pruning"> {{type}} ✂️</span>
+        {% endif %}
     </div>
     {% endif %}
     {{content}}
