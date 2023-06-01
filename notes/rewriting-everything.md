@@ -15,4 +15,4 @@ I'm rediscovering listening to music in "full albums", not just singles. Found 3
 
 I haven't read that much during the vacation, but before that I've managed to finish a few books on Kindle, including the first two books from the "Discworld" series by Terry Pratchett.
 
-Now I'm trying to figure out ways to configure my site to work with eleventy. So I'm basically rewriting some stuff around, and adding some automations. It's interesting to see how this thing grows and updates; hope it doesn't turn into a mess.
+Now I'm trying to figure out ways to configure my site to work with eleventy. Speaking of, I've added "types" to the notes, based on their status. So now my notes will be categorized into seeds, growing, budding, flourishing, and notes that need pruning. Trying to go all the way with the digital garden metaphor. Besides that, I'm rewriting some stuff, and adding some automations. It's interesting to see how this digital garden grows and updates; hope it doesn't turn into a mess.
