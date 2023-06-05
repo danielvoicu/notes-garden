@@ -14,6 +14,7 @@ I've also added:
 - Notes show the date on which they were last changed
 - Styling changes
 - Included article image in backlink preview
+- Automatically display a list of articles in the Index page (TOC)
 
 ## License
 This project is under the [MIT](https://github.com/danielvoicu/notes-garden/blob/main/LICENSE) license, just like the original template by [@binyamin](https://github.com/binyamin).
