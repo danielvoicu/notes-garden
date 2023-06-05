@@ -22,6 +22,13 @@ body {
   margin: 0 24px;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #fff;
+  }
+}
+
 @media only screen and (max-width: 468px) {
   .page-header {
     flex-direction: column;
@@ -236,6 +243,7 @@ blockquote {
   padding: 0.9em;
   position: relative;
 }
+
 blockquote:before {
   background-color: #fff;
   bottom: -1em;
@@ -245,6 +253,17 @@ blockquote:before {
   right: 2em;
   top: -1em;
 }
+
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    border-color: #757575;
+  }
+
+  blockquote:before {
+    background-color: #1a1a1a;
+  }
+}
+
 blockquote cite {
   color: #757575;
   display: block;
@@ -253,7 +272,8 @@ blockquote cite {
   text-align: right;
   text-transform: uppercase;
 }
-blockquote > * {
+
+blockquote>* {
   position: relative;
   z-index: 1;
 }
