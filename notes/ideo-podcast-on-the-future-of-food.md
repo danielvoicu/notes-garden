@@ -2,6 +2,7 @@
 title: IDEO Podcast on the future of food
 date: 2021-12-12
 type: Budding
+description: Food by Design, a podcast from IDEO. I will listen to it soon and update the note with some of the stuff I liked from it.
 ---
 
 Today I found out from [IDEO's blog](https://www.ideo.com/blog/ideos-new-podcast-asks-food-world-visionaries-about-the-future-they-want-to-see) about their podcast where they discuss the topic of food and how the future looks like for it. Just the fact that it comes from IDEO makes me want to see what it's all about. It has 8 episodes so far, around 25 minutes each. The podcast can be found here: [https://ideo.com/food](https://ideo.com/food), with transcripts for each episode.

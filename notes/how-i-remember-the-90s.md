@@ -1,6 +1,7 @@
 ---
 title: How I remember the 90s
 type: Growing
+description: A note about how I remember growing up in the 90s, using older tech.
 ---
 I grew up surrounded by technology, although it wasn’t always the bleeding edge kind of technology. I remember playing with an HC-91, a ZX Spectrum clone made in Romania, when I was 6–7 years old. The fact that you could write some weird, cryptic lines of characters that could load a game or make one by yourself was fascinating back then. I still remember the sound this thing made when you were loading a game. It was something similar to the modem dial tone, and I think it took a minute or two to load something, and you could hear variations of that tone.
 

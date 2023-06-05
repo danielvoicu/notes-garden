@@ -2,6 +2,7 @@
 title: Note taking apps, second brains and writing
 date: 2022-10-23
 type: Budding
+description: About the search for the best note taking app and second brains.
 ---
 
 ### Which is the best note taking app?

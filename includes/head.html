@@ -8,9 +8,9 @@
     {% assign metatitle = metatitle | prepend: " • " | prepend: title %}
 {% endif %}
 
-{% assign metadesc = site.desc %}
-{% if desc %}
-    {% assign metadesc = desc %}
+{% assign metadesc = site.default_desc %}
+{% if description %}
+    {% assign metadesc = description %}
 {% endif %}
 
 {% assign metatype = "website" %}
