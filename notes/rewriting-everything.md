@@ -1,6 +1,7 @@
 ---
 title: Rewriting everything
 type: Seed
+description: A note about how we tend to rewrite everything, looking for the perfect version.
 ---
 
 I've started writing this trying to remember how eleventy works, as I forgot that I had a digital garden thingy. I tend to forget stuff like this: too much time spent in front of screens. 

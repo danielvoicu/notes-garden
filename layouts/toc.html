@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article>
+    {% if image.length > 0%}
+    <img src="{{image}}" alt="{{imageAlt}}" class="article-header-image">
+    {% endif %}
+    <h2>{{title}}</h2>
+    {% if date %}
+    <div>
+        <span>Last Modified:</span> <time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time>
+    </div>
+    {% endif %}
+
+    {{content}}
+    
+    <ul>
+        {% for note in collections.notes %}
+            {% unless note.data.title == "The Index" or note.data.title == 'Home' %}
+                <li>
+                    <a href="{{ note.url }}">{{ note.data.title }}</a> - <span>{{note.data.description}}</span>
+                </li>
+            {% endunless %}
+        {% endfor %}
+    </ul>
+
+</article>
+{% include 'backlinks.html' %}

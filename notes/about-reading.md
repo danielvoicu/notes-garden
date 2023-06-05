@@ -1,6 +1,7 @@
 ---
 title: About Reading
 type: Seed
+description: About reading and the barbell method.
 ---
 
 I kept seeing things about speed reading, I think that I always saw as something that should be avoided. Reading should be done at a pace that allows us to absorb information in a way that we allow it to settle, to sediment itself so we can use it at some point. Speed reading is a way to gather information, but I don't know if it helps on the long term.
